@@ -4,7 +4,7 @@
 
 #### 2. 기술스택 : python, pandas, numpy, tensorflow, keras  
 
-3. 내용 : 특정 기술스택을 가지고 있는 지원자가 특정 기술스택을 원하는 회사에 지원했을지 예측하는 모델 구현하기  
+#### 3. 내용 : 특정 기술스택을 가지고 있는 지원자가 특정 기술스택을 원하는 회사에 지원했을지 예측하는 모델 구현하기  
     1. 주어지는 정보
         - 회사에 대한 정보 : 원하는 기술스택, 회사의 규모 등.
         - 지원자에 대한 정보 : 지원자가 갖고있는 기술스택.
@@ -21,7 +21,7 @@
         - 모델구조  
         ![2](https://user-images.githubusercontent.com/50386280/78499209-4977c680-778a-11ea-8b98-02833449d80f.png)
 
-4. 파일설명
+#### 4. 파일설명
     **[input file : (잡페어 규정상 공개불가), output model : donghyun_model.h5, donghyun_model2.h5]**
     - model1.ipynb : 모델1의 전처리, DNN모델.
     - model2.ipynb : 모델2의 전처리, DNN모델.
@@ -30,7 +30,7 @@
     - test1.ipynb : 모델1로 답안 추출
     - test2.ipynb : 모델2로 답안 추출
     
-5. 순위  
+#### 5. 순위  
     ![4위](https://user-images.githubusercontent.com/50386280/78499410-82646b00-778b-11ea-943e-01bb35a533ce.png)
 
 
