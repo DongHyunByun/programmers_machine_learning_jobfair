@@ -15,13 +15,23 @@
         - companyL+userL 을 input으로 가지고, 지원여부를 output으로 하여 모델 학습.
         - 모델구조  
         ![noname01](https://user-images.githubusercontent.com/50386280/78499120-c8203400-7789-11ea-85ae-ffadcedc9180.png)
-    3. 모델2
+    3. 모델2 (모델1보다 우수한성능, 최종제출)
         - 모들 기술스택 N에 대해서, 지원자와 회사가 모두 원하면 0.9, 지원자만 원하면 0.5, 회사만 원하면 0.3, 둘다 원하지않으면 0.1 갖는 tempL 리스트 생성
         - tempL를 input값으로 가지고, 지원여부를 output으로 하여 모델 학습.
-        - 모델구조
+        - 모델구조  
         ![2](https://user-images.githubusercontent.com/50386280/78499209-4977c680-778a-11ea-8b98-02833449d80f.png)
 
 4. 파일설명
+    **[input file : (잡페어 규정상 공개불가), output model : donghyun_model.h5, donghyun_model2.h5]**
+    - model1.ipynb : 모델1의 전처리, DNN모델.
+    - model2.ipynb : 모델2의 전처리, DNN모델.
+    - donghyun_model.h5 : 모델1
+    - donghyun_model2.h5 : 모델2
+    - test1.ipynb : 모델1로 답안 추출
+    - test2.ipynb : 모델2로 답안 추출
+    
+5. 순위  
+    ![4위](https://user-images.githubusercontent.com/50386280/78499410-82646b00-778b-11ea-943e-01bb35a533ce.png)
 
 
     
