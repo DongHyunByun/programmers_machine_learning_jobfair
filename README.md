@@ -22,7 +22,7 @@
         ![2](https://user-images.githubusercontent.com/50386280/78499209-4977c680-778a-11ea-8b98-02833449d80f.png)
 
 4. **파일설명**
-    **[input file : (잡페어 규정상 공개불가), output model : donghyun_model.h5, donghyun_model2.h5]**
+    **[input file : (잡페어 규정상 공개불가), output model : donghyun_model.h5, donghyun_model2.h5]**  
     1 model1.ipynb : 모델1의 전처리, DNN모델.
     2 model2.ipynb : 모델2의 전처리, DNN모델.
     3 donghyun_model.h5 : 모델1
