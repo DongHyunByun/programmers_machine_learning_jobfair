@@ -2,7 +2,7 @@
 
 1. **기간 : 2019.12.02~2019.12.17**
 
-2. **기술스택 : python, pandas, numpy, tensorflow, keras  **
+2. **기술스택 : python, pandas, numpy, tensorflow, keras**
 
 3. **내용 : 특정 기술스택을 가지고 있는 지원자가 특정 기술스택을 원하는 회사에 지원했을지 예측하는 모델 구현하기**
     1. 주어지는 정보
