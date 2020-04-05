@@ -1,6 +1,6 @@
 # programmers_machine_learning_jobfair
 
-1. 기간 : 2019.12.02~2019.12.17  
+1. **기간 : 2019.12.02~2019.12.17**
 
 2. 기술스택 : python, pandas, numpy, tensorflow, keras  
 
