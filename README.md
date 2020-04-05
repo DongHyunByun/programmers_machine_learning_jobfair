@@ -23,14 +23,14 @@
 
 4. **파일설명**
     **[input file : (잡페어 규정상 공개불가), output model : donghyun_model.h5, donghyun_model2.h5]**
-    - model1.ipynb : 모델1의 전처리, DNN모델.
-    - model2.ipynb : 모델2의 전처리, DNN모델.
-    - donghyun_model.h5 : 모델1
-    - donghyun_model2.h5 : 모델2
-    - test1.ipynb : 모델1로 답안 추출
-    - test2.ipynb : 모델2로 답안 추출
+    1 model1.ipynb : 모델1의 전처리, DNN모델.
+    2 model2.ipynb : 모델2의 전처리, DNN모델.
+    3 donghyun_model.h5 : 모델1
+    4 donghyun_model2.h5 : 모델2
+    5 test1.ipynb : 모델1로 답안 추출
+    6 test2.ipynb : 모델2로 답안 추출
     
-5. **순위  **
+5. **순위**  
     ![4위](https://user-images.githubusercontent.com/50386280/78499410-82646b00-778b-11ea-943e-01bb35a533ce.png)
 
 
