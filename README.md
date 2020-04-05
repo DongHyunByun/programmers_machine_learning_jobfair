@@ -31,6 +31,7 @@
     6. test2.ipynb : 모델2로 답안 추출
     
 5. **순위**  
+    (약 400명 중)
     ![4위](https://user-images.githubusercontent.com/50386280/78499410-82646b00-778b-11ea-943e-01bb35a533ce.png)
 
 
